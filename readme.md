@@ -2,7 +2,7 @@
 
 **Click the image below to watcha a short (less that 60 seconds) video introduction to the project**
 
-(C:\Users\Mark\Desktop\Python\github\capital-forecasting-microproject\images\screenshot.JPG)(https://youtu.be/4nfzWkHwxtY)
+!(images\screenshot.JPG)(https://youtu.be/4nfzWkHwxtY)
 
 This SQL-focused project simulates capital adequacy forecasting under Basel III regulatory requirements. It uses a fictional dataset of business units, capital structures (CET1, AT1, Tier 2), and macroeconomic forecast scenarios.
 
