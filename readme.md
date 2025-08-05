@@ -1,5 +1,7 @@
 # Capital Adequacy Forecasting – Basel III Compliance Simulation
 
+(screenshot.jpg)
+
 This SQL-focused project simulates capital adequacy forecasting under Basel III regulatory requirements. It uses a fictional dataset of business units, capital structures (CET1, AT1, Tier 2), and macroeconomic forecast scenarios.
 
 ## Key Features
