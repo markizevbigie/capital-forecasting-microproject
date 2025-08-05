@@ -1,6 +1,6 @@
 # Capital Adequacy Forecasting – Basel III Compliance Simulation
 
-**Click the image below to watcha a short (less that 60 seconds) video introduction to the project**
+**Click the image below to watch a short (40 second) video introduction to the project**
 
 [![Link to Video](images/screenshot.JPG)](https://youtu.be/4nfzWkHwxtY)
 
