@@ -16,7 +16,6 @@ This SQL-focused project simulates capital adequacy forecasting under Basel III 
 - `balance_sheets`: CET1, AT1, Tier 2 capital vs. risk-weighted exposure
 - `forecast_assumptions`: Scenario-based multipliers
 - `regulatory_requirements`: Basel III minimums per tier
-- `forecast_results`: Forecasted capital adequacy outcomes under each scenario
 
 ## Why It Matters
 
