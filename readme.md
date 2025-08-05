@@ -4,7 +4,7 @@
 
 [![Link to Video](images/screenshot.JPG)](https://youtu.be/4nfzWkHwxtY)
 
-This SQL-focused project simulates capital adequacy forecasting under Basel III regulatory requirements. It uses a fictional dataset of business units, capital structures (CET1, AT1, Tier 2), and macroeconomic forecast scenarios.
+This project is a simple forecasting tool that estimates whether a hypothetical financial institution would meet regulation requirements under various economic scenarios. It focuses on Basel III regulation and uses sample balance sheet inputs, SQL-based tier calculations, and basic scenario forecasting logic.
 
 ## Key Features
 
