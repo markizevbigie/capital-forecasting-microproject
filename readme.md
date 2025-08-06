@@ -6,7 +6,7 @@
 
 This project is a simple forecasting tool that estimates whether a hypothetical financial institution would meet regulation requirements under various economic scenarios. It focuses on Basel III regulation and uses sample balance sheet inputs, SQL-based tier calculations, and basic scenario forecasting logic.
 
-!(images/table.JPG)
+![alt text](images/table.JPG)
 
 ## 🛠️ How to Run This Project
 
