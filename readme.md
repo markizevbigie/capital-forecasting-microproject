@@ -6,6 +6,27 @@
 
 This project is a simple forecasting tool that estimates whether a hypothetical financial institution would meet regulation requirements under various economic scenarios. It focuses on Basel III regulation and uses sample balance sheet inputs, SQL-based tier calculations, and basic scenario forecasting logic.
 
+## 🛠️ How to Run This Project
+
+This project is written in Python using a Jupyter Notebook.
+
+---
+
+### Run Locally (Recommended)
+
+If you have Jupyter Notebook, VS Code, or Anaconda installed:
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/markizevbigie/capital-forecasting-microproject
+   cd capital_forecasting_microproject
+2. **Open the notebook:**
+    - Launch Jupyter Notebook or VS Code
+    - Open capital_forecasting_microproject.ipynb
+3. **Run all cells.**
+    - All required packages are standard, but see the “Dependencies” section below for exact versions or install the required dependencies with
+    `pip install -r requirements.txt`
+
 ## Key Features
 
 - SQLite + SQL Magic in Jupyter
@@ -30,3 +51,18 @@ This project demonstrates a working understanding of regulatory capital framewor
 - Add real data from 10-K/Pillar 3 filings
 - Automate with Python or build out a front-end dashboard
 
+## Dependencies
+
+This notebook was developed using the following environment:
+
+   - Python 3.x
+
+   - sqlalchemy==1.4.x ✅ (Note: newer 2.x versions may cause errors)
+
+   - ipython-sql
+
+   - sqlite3 (standard in Python)
+
+If you're running into issues, you can install the exact versions using:
+
+pip install sqlalchemy==1.4.50 ipython-sql pandas
