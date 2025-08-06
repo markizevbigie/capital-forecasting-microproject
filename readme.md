@@ -6,6 +6,8 @@
 
 This project is a simple forecasting tool that estimates whether a hypothetical financial institution would meet regulation requirements under various economic scenarios. It focuses on Basel III regulation and uses sample balance sheet inputs, SQL-based tier calculations, and basic scenario forecasting logic.
 
+!(images/table.JPG)
+
 ## 🛠️ How to Run This Project
 
 This project is written in Python using a Jupyter Notebook.
@@ -53,16 +55,12 @@ This project demonstrates a working understanding of regulatory capital framewor
 
 ## Dependencies
 
-This notebook was developed using the following environment:
+This notebook was developed using the following dependencies:
 
-   - Python 3.x
+   - Python 3.11
 
-   - sqlalchemy==1.4.x ✅ (Note: newer 2.x versions may cause errors)
+   - sqlalchemy==1.4.39 ✅ (Note: newer 2.x versions may cause errors)
 
    - ipython-sql
 
-   - sqlite3 (standard in Python)
-
-If you're running into issues, you can install the exact versions using:
-
-pip install sqlalchemy==1.4.50 ipython-sql pandas
+   - sqlparse
